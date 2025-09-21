@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🎨 Desenvolvedor Frontend (em transição para Full Stack)  
 
-<!--
-**enocmarvaoo-rgb/enocmarvaoo-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou Enoc Wellington 👋  
 
-Here are some ideas to get you started:
+Sou um **desenvolvedor Frontend** apaixonado por criar interfaces modernas e funcionais. Atualmente, estou expandindo meus conhecimentos em **Backend**, com o objetivo de me tornar um desenvolvedor **Full Stack**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias que utilizo  
+
+💻 **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, TailwindCSS  
+⚙️ **Estudando Backend:** Node.js, Express, SQL e NoSQL  
+🛠️ **Ferramentas:** Git, GitHub, VSCode, Figma  
+
+---
+
+## 🌟 O que eu faço  
+
+- Desenvolvimento de **interfaces responsivas e acessíveis**  
+- Criação de componentes reutilizáveis com **React**  
+- Consumo de **APIs REST** no frontend  
+- Estudando: **criação de APIs, autenticação e integração com bancos de dados**  
+
+---
+
+## 📫 Contato  
+
+- [LinkedIn]()  
+- [Email](enocmarvaoo@gmail.com)
+-
+---
+## Status
+
+- [![Enoc stats](https://github-readme-stats.vercel.app/api?username=enocmarvaoo-rgb)](https://github.com/anuraghazra/github-readme-stats)
+
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enocmarvaoo-rgb)](https://github.com/anuraghazra/github-readme-stats)
