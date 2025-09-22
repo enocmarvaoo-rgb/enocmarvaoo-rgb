@@ -25,7 +25,7 @@ Sou um **desenvolvedor Frontend** apaixonado por criar interfaces modernas e fun
 
 ## 📫 Contato  
 
-- [LinkedIn]()  
+- [LinkedIn](www.linkedin.com/in/enoc-wellington-062507352)  
 - [Email](enocmarvaoo@gmail.com)
 -
 ---
